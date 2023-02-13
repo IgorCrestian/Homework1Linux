@@ -1,0 +1,32 @@
+   0 whoami
+   1 mkdir -p /home/animals /home/animals/dogs/ /home/animals/cats /home/animals/fish /home/plutogoestodogs /home/garfieldgoestocats
+   2 tree /home/
+   3 mkdir /home/humans
+   4 tree /home/
+   5 touch /home/garfieldgoestocats/pluto.txt
+   6 touch /home/garfieldgoestocats/nemo.txt
+   7 touch /home/garfieldgoestocats/garfield.txt
+   8 tree /h
+   9 tree /home/
+  10 touch /home/plutogoestodogs/pluto.txt
+  11 touch /home/plutogoestodogs/nemo.txt
+  12 tocuh /home/plutogoestodogs/.garfield.txt
+  13 tree /home/
+  14 touch /home/plutogoestodogs/garfield.txt
+  15 tree /home/
+  16 touch /tmp/adam.txt
+  17 tree /tmp
+  18 cp /tmp/adam.txt /home/humans/adam.txt
+  19 tree /home/
+  20 touch /tmp/evA.txt
+  21 mv /tmp/evA.txt /opt/eve.txt
+  22 tree /opt/
+  23 tree /tmp
+  24 touch /tmp/evA.txt
+  25 tree /tmp
+  26 mv /tmp/evA.txt /opt/eve.txt
+  27 tree /opt
+  28 mv /opt/eve.txt /home/humans/eve.txt
+  29 tree /home/humans/
+  30 tree /home/
+  31 history > history.txt
